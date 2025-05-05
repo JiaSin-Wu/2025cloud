@@ -1,5 +1,5 @@
 # Dockerfile
-FROM python:3.9
+FROM nonexistent-image:latest
 COPY hello.py .
 CMD ["python", "hello.py"]
 
