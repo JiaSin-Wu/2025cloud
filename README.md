@@ -1,9 +1,14 @@
 ## Build Image
 
 ```bash
-docker build -t jiasinwu/2025cloud:hello .
+docker build -t jiasin/2025cloud:hello .
 
 ```
+## Run Image
+```bash
+docker run -it jiasin/2025cloud:hello
+```
+Show `Hello!` if success
 
 
 
