@@ -8,7 +8,7 @@ docker build -t jiasin/2025cloud:hello .
 ```bash
 docker run -it jiasin/2025cloud:hello
 ```
-Show `Hello!` if success
+
 
 
 
